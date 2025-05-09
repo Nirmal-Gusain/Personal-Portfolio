@@ -75,7 +75,7 @@ const Projects = () => {
           <div className="flex gap-10">
             <button className="md:px-10 md:py-3 px-5 py-2 w-fit bg-gray-700 border-2 border-[#AE6ADF] text-white md:text-lg ubuntu font-medium rounded-tl-3xl rounded-br-3xl transition duration-300 hover:shadow-[0_0_15px_#AE6ADF] hover:border-[#AE6ADF] hover:bg-gray-800">
               <a
-                href="https://weather-app-one-sable-19.vercel.app/"
+                href="https://personal-portfolio-nirmal-gusains-projects.vercel.app/"
                 target="_blank"
               >
                 View Project
@@ -83,7 +83,7 @@ const Projects = () => {
             </button>
             <button className="md:px-10 md:py-3 px-5 py-2 w-fit bg-gray-700 border-2 border-[#AE6ADF] text-white md:text-lg ubuntu font-medium rounded-tl-3xl rounded-br-3xl transition duration-300 hover:shadow-[0_0_15px_#AE6ADF] hover:border-[#AE6ADF] hover:bg-gray-800">
               <a
-                href="https://github.com/Nirmal-Gusain/Weather-App"
+                href="https://github.com/Nirmal-Gusain/Personal-Portfolio"
                 target="_blank"
               >
                 Source Code
