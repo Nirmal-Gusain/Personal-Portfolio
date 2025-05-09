@@ -44,8 +44,9 @@ const Hero = () => {
               </div>
             </div>
           </div>
-          <button className="bg-white px-6 py-3 rounded-full text-lg w-fit flex items-center gap-3 mx-auto md:mx-0">
-            Download CV <MdOutlineFileDownload size={25} />
+          <button className="bg-white px-6 py-3 rounded-full text-lg w-fit  mx-auto md:mx-0">
+            <a href="https://drive.google.com/file/d/15gbfdYrltoSWVO-sZXv3WkoKFsUJt4Nz/view?usp=sharing" target="_blank" className="flex items-center gap-3">Download CV <MdOutlineFileDownload size={25} /></a>
+             
           </button>
         </section>
 
@@ -84,7 +85,8 @@ const Hero = () => {
 
           <div className="flex items-center gap-5 mt-3 justify-center md:justify-start">
             <button className="text-[#12f7d6] text-xl md:text-2xl text-left font-medium Cfont">
-              Let's Talk
+              <a href="mailto:nirmalgusain03@gmail.com">Let's Talk</a>
+              
             </button>
             <div className="h-8 w-8 md:h-10 md:w-10 flex items-center justify-center bg-gray-600 rounded-full">
               <MdOutlineEmail size={20} color="12f7d6" />
