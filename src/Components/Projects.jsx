@@ -66,11 +66,10 @@ const Projects = () => {
           </p>
           <div className="text-white  Cfont bg-white/20 py-2 px-5 rounded backdrop-blur-[10px] ">
             <p>
-              • Clean and responsive weather app built with React and Tailwind
-              CSS.
+              • Modern portfolio built with React and styled using Tailwind CSS.
             </p>
-            <p>• Fetches real-time weather data using public weather APIs.</p>
-            <p>• Supports city search and geolocation-based weather updates.</p>
+            <p>• Showcases my full-stack projectsa and Skills</p>
+            <p>• Fully responsive design with smooth navigation and clean UI.</p>
           </div>
           <div className="flex gap-10">
             <button className="md:px-10 md:py-3 px-5 py-2 w-fit bg-gray-700 border-2 border-[#AE6ADF] text-white md:text-lg ubuntu font-medium rounded-tl-3xl rounded-br-3xl transition duration-300 hover:shadow-[0_0_15px_#AE6ADF] hover:border-[#AE6ADF] hover:bg-gray-800">
@@ -105,11 +104,10 @@ const Projects = () => {
           </p>
           <div className="text-white  Cfont bg-white/20 py-2 px-5 rounded backdrop-blur-[10px] ">
             <p>
-              • Clean and responsive weather app built with React and Tailwind
-              CSS.
+              • Pixel-perfect gift and decor store using React and Tailwind CSS.
             </p>
-            <p>• Fetches real-time weather data using public weather APIs.</p>
-            <p>• Supports city search and geolocation-based weather updates.</p>
+            <p>• Clean, responsive UI recreated from Figma design.</p>
+            <p>• Smooth shopping experience with modern design and interactive elements.</p>
           </div>
           <div className="flex gap-10">
             <button className="md:px-10 md:py-3 px-5 py-2 w-fit bg-gray-700 border-2 border-[#AE6ADF] text-white md:text-lg ubuntu font-medium rounded-tl-3xl rounded-br-3xl transition duration-300 hover:shadow-[0_0_15px_#AE6ADF] hover:border-[#AE6ADF] hover:bg-gray-800">
