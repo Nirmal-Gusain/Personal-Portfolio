@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <section className="md:h-screen h-fit bg-[url('About.png')] md:px-32 px-6 md:py-10 py-10 flex flex-col justify-between md:gap-20 gap-12">
+    <section className="md:h-screen h-fit bg-[url('/About.png')] md:px-32 px-6 md:py-10 py-10 flex flex-col justify-between md:gap-20 gap-12">
       <img src="Scroll.png" className="md:h-20 h-12 m-auto" alt="" />
       <div className="flex md:gap-20 gap-10 flex-col md:flex-row">
         <div className="flex flex-col gap-12 ">
